@@ -1,6 +1,6 @@
 <div>
 <h1> Vir Gómez - SEO & Posicionamiento Web en Murcia</h1>
-#Desde hace +6 años trabajo en el posicionamiento de páginas web, colaborando con distintas agencias de diseño web y posicionamiento
+#Desde hace +6 años trabajo en el posicionamiento de páginas web, colaborando con distintas agencias de diseño web y posicionamiento <br>
 <blockquote>Una web limpia, por dentro y por fuera, sin código ni themes reutilizados, sin imágenes copiadas de Internet, sin estropicios…</blockquote>
 
 <p>Diseño páginas simples con themes oficiales y pensando en una estrategia de contenidos.</p>
