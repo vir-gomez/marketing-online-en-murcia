@@ -1,6 +1,7 @@
 <div>
 <h1> Vir Gómez - SEO & Posicionamiento Web en Murcia</h1>
-#Desde hace +6 años trabajo en el posicionamiento de páginas web, colaborando con distintas agencias de diseño web y posicionamiento <br>
+#Desde hace +6 años trabajo en el posicionamiento de páginas web, colaborando con distintas agencias de diseño web y posicionamiento
+<br><br>
 <blockquote>Una web limpia, por dentro y por fuera, sin código ni themes reutilizados, sin imágenes copiadas de Internet, sin estropicios…</blockquote>
 
 <p>Diseño páginas simples con themes oficiales y pensando en una estrategia de contenidos.</p>
@@ -14,12 +15,19 @@
 
 <p>~ 2020 Inicio mi colaboración en SEOcli - Agencia de posicionamiento web en Murcia, ubicada en la Torre Godoy y con estrecha colaboración con grandes cuentas y pequeñas y medianas empresas que precisaban urgentemente aparecer en Google y empezar a construir sus estrategias de captación de cuota de tráfico y alcance de búsquedas a través de motores de búsqueda como Google.</p>
 
-<h2>Actitud</h2>
+<h2>Actitudes</h2>
 Me considero una persona eminentemente servicial que disfruta y se valora a sí misma por cuan capaz es de servir al equipo. 
 Disfruto del trabajo bien hecho y soy detallista, aunque en mi profesión tenga que sacrificar mi perfeccionismo por el rendimiento y la rápida ejecución de micro tareas.
 Soy bastante callada, observadora y analítica, curiosa por naturaleza y muy libre pensadora. 
 
-<h2>Actitud</h2>
+<h2>Aptitudes</h2>
+➫ Maquetación y diseño en Illustrator & Canva
+➫ Optimización de páginas web corrigiendo CSS Y HTML
+➫ Gestión de e-commerce en Prestashop y Woocommerce
+➫ Redacción de contenidos para clientes
+➫ Bloggin
+➫ Diseño de páginas web en Wordpress
+➫ Comunicación y marketing
 Llevo años formándome en distintas áreas del Marketing off y on, con todo tipo de 
 
 <h2>Contacto</h2>
