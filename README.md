@@ -39,7 +39,4 @@ Conoce más sobre mí en ➫ https://virgomez.es/sobre-mi/
    alt="Virginia Gómez" title="Virginia Gómez - Especialista en Marketing Online & SEO">
 </div>
 
-   git tag <seo>
-   git tag <online marketing>
-   git tag <murcia>
 
