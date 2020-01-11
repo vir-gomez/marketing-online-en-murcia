@@ -13,7 +13,7 @@
 
 ~ 2016 Proalt Ingeniería, Llevé las riendas del Departamento de Marketing y realicé el Plan de Marketing para el año 2020 de la empresa antes de irme, habiendo dejado una página web en Wordpress con más de 30K visitas mensuales y en alza, con tráfico principalmente nacional (España) y Latinoamericano.
 
-~ 2020 Inicio mi colaboración en SEOcli - Agencia de posicionamiento web en Murcia, ubicada en la Torre Godoy y con estrecha colaboración con grandes cuentas como Grupo Orenes y elPozo Murcia.
+~ 2020 Inicio mi colaboración en SEOcli - Agencia de posicionamiento web en Murcia, ubicada en la Torre Godoy y con estrecha colaboración con grandes cuentas y pequeñas y medianas empresas que precisaban urgentemente aparecer en Google y empezar a construir sus estrategias de captación de cuota de tráfico y alcance de búsquedas a través de motores de búsqueda como Google.
 
 Conoce más sobre mí en ➫ https://virgomez.es/sobre-mi/
 <br>➫ hola@virgomez.es
