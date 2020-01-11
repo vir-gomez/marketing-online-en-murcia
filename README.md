@@ -16,4 +16,4 @@
 ~ 2020 Inicio mi colaboración en SEOcli - Agencia de posicionamiento web en Murcia, ubicada en la Torre Godoy y con estrecha colaboración con grandes cuentas como Grupo Orenes y elPozo Murcia.
 
 Conoce más sobre mí en ➫ https://virgomez.es/sobre-mi/
-➫ hola@virgomez.es
+<br>➫ hola@virgomez.es
