@@ -21,13 +21,13 @@ Disfruto del trabajo bien hecho y soy detallista, aunque en mi profesión tenga 
 Soy bastante callada, observadora y analítica, curiosa por naturaleza y muy libre pensadora. 
 
 <h2>Aptitudes</h2>
-➫ Maquetación y diseño en Illustrator & Canva
-➫ Optimización de páginas web corrigiendo CSS Y HTML
-➫ Gestión de e-commerce en Prestashop y Woocommerce
-➫ Redacción de contenidos para clientes
-➫ Bloggin
-➫ Diseño de páginas web en Wordpress
-➫ Comunicación y marketing
+➫ Maquetación y diseño en Illustrator & Canva<br><br>
+➫ Optimización de páginas web corrigiendo CSS Y HTML<br><br>
+➫ Gestión de e-commerce en Prestashop y Woocommerce<br><br>
+➫ Redacción de contenidos para clientes<br><br>
+➫ Bloggin<br><br>
+➫ Diseño de páginas web en Wordpress<br><br>
+➫ Comunicación y marketing<br><br>
 Llevo años formándome en distintas áreas del Marketing off y on, con todo tipo de 
 
 <h2>Contacto</h2>
