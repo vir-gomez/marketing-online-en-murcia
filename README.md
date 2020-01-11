@@ -4,4 +4,4 @@
 #Sin código ni themes reutilizados, sin imágenes copiadas de Internet, sin estropicios…
 
 <p>Diseño páginas simples con themes oficiales y pensando en una estrategia de contenidos.</p>
-<a style="color: #ccffff;" title="El e-mail marketing es el colofón final para que tus clientes te tengan siempre presente, en su buzón de correo, cada mañana, mientras toman el primer café del día..." href="https://virgomez.es/marketing-digital/e-mail-marketing/">una visión 360º del marketing digital</a>
+<a style="color: #ccffff;" title="El e-mail marketing es el colofón final para que tus clientes te tengan siempre presente, en su buzón de correo, cada mañana, mientras toman el primer café del día..." href="https://virgomez.es/marketing-digital/">Conoce mi visión 360º del marketing digital</a> con una profesional dispuesta a colaborar en Murcia y alrededores.
