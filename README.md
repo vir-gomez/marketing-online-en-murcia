@@ -33,10 +33,5 @@ Llevo años formándome en distintas áreas del Marketing off y on, con todo tip
 <h2>Contacto</h2>
 Conoce más sobre mí en ➫ https://virgomez.es/sobre-mi/
 <br>➫ hola@virgomez.es
-<br><br>
-<img href="https://virgomez.es/marketing-digital/" src="https://virgomez.es/" 
-   height="100" width="100"
-   alt="Virginia Gómez" title="Virginia Gómez - Especialista en Marketing Online & SEO">
-</div>
 
 
